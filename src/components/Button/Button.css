@@ -1,0 +1,14 @@
+.primary {
+  height: 30px;
+  width: 50px;
+  border-radius: 20%;
+  background-color: white;
+}
+
+.secondary {
+  height: 20px;
+  width: 20px;
+  align-items: center;
+  border-radius: 50%;
+  background-color: white;
+}/*# sourceMappingURL=Button.css.map */

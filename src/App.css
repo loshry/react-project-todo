@@ -1,0 +1,12 @@
+@media screen and (min-width: 450px) {
+  .app {
+    margin-left: 10%;
+    padding: 20px;
+  }
+  .header {
+    display: flex;
+    direction: row;
+    align-items: center;
+    justify-content: space-between;
+  }
+}/*# sourceMappingURL=App.css.map */
